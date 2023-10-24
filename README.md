@@ -13,3 +13,6 @@ The project aims to perform stream analytics on job postings on job search platf
   Employing natural language processing to analyze resumes and job descriptions, extracting the most pertinent skills and keywords.
   Visualizing the results to identify the optimal matches.
   Enhancing my resume by incorporating the appropriate keywords extracted from job descriptions that align perfectly with my profile.
+
+  ## Data pipeline workflow
+  ![Sample Image](images/data-pipeline.png)
