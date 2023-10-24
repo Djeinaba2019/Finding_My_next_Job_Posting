@@ -1,0 +1,65 @@
+Company/Candidate Name,Skill,Sub-skill,Count
+Spotify,Maths,Statistics,1
+Spotify,Coding,Python,1
+Spotify,WebD,Python,1
+Spotify,Coding,Java,1
+Spotify,Coding,Scala,1
+Spotify,Coding,R,1
+Spotify,DevOps,SPSS,1
+Spotify,Coding,SQL,1
+Spotify,DevOps,Tableau,1
+Spotify,Business,Tableau,1
+Spotify,Soft_Skills,Flexible,1
+pulseData,Coding,Python,1
+pulseData,WebD,Python,1
+pulseData,Coding,R,1
+pulseData,Coding,SQL,1
+pulseData,Analytics,A/B testing,1
+ZM Financial Systems,ML/AI,Regression,1
+ZM Financial Systems,Maths,Statistics,1
+New York Life Insurance Co,Maths,Statistics,2
+New York Life Insurance Co,Business,Marketing,1
+New York Life Insurance Co,ML/AI,Regression,1
+New York Life Insurance Co,Coding,Python,1
+New York Life Insurance Co,WebD,Python,1
+New York Life Insurance Co,Coding,SQL,1
+PayPal,Coding,Python,1
+PayPal,WebD,Python,1
+PayPal,DevOps,Hadoop,1
+PayPal,Coding,R,1
+PayPal,Coding,SQL,1
+Quizlet,Coding,PHP,2
+Quizlet,WebD,PHP,2
+Simpson Gumpertz & Heger,WebD,client,1
+Quizlet,DevOps,UX,1
+Quizlet,DevOps,UI,1
+The New York Times,Analytics,ETL,1
+The New York Times,Coding,Java,1
+The New York Times,Coding,Python,1
+The New York Times,WebD,Python,1
+The New York Times,WebD,Go,1
+The New York Times,Coding,SQL,1
+The New York Times,DevOps,Spark,1
+The New York Times,Business,Marketing,1
+AT&T,Maths,Statistics,1
+Spotify,Maths,Statistics,1
+Spotify,Coding,Java,1
+Spotify,Coding,Scala,1
+Spotify,Coding,Python,1
+Spotify,WebD,Python,1
+Spotify,Coding,R,1
+Spotify,DevOps,Hadoop,1
+Spotify,DevOps,Spark,1
+Spotify,Soft_Skills,Flexible,1
+Etsy,Coding,PHP,2
+Etsy,WebD,PHP,2
+Etsy,Coding,Java,1
+Etsy,Coding,Python,1
+Etsy,WebD,Python,1
+Etsy,Coding,Ruby,1
+Etsy,Coding,HTML,1
+Etsy,WebD,HTML,1
+Etsy,Coding,CSS,1
+Etsy,WebD,CSS,1
+Braze,Marketing,Campaign Management,1
+Braze,Business,Marketing,1
